@@ -12,6 +12,7 @@
     	v.   easyocr   # Used for Character Recognition in image
     
 2. Importing the image in Gray Scale format (single layer) and used some morphological process and edge detection techniques
+
 ![image](https://user-images.githubusercontent.com/101550107/201488327-7cbc8b62-5b37-45c4-b16e-72dbecf8a034.png)
 
 
